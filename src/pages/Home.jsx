@@ -247,7 +247,7 @@ export default function Home() {
       </section>
 
       
-      <main className="w-full mx-auto px-4 md:px-6 py-10 w-full flex-1">
+      <main className="mx-auto px-4 md:px-6 py-10 w-full flex-1">
 
        
         <div className="flex items-center justify-between mb-4">
@@ -351,7 +351,7 @@ export default function Home() {
             </p>
             <div className="flex gap-3 text-lg">
               <span className="cursor-pointer hover:text-black transition-colors"><img src="/share-svgrepo-com.svg" alt="Share" className="w-7 h-7" /></span>
-              <span className="cursor-pointer hover:text-black transition-colors"><img src="public/arroba-sign-svgrepo-com.svg" alt="Arroba" className="w-7 h-7" /></span>
+              <span className="cursor-pointer hover:text-black transition-colors"><img src="/arroba-sign-svgrepo-com.svg" alt="Arroba" className="w-7 h-7" /></span>
             </div>
           </div>
 
